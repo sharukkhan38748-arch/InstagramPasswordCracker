@@ -20,4 +20,5 @@ The password list file provided must seperate passwords with a newline.
 
 Usage:
 
-./insta_cracker [username] < [password list file]
+./insta_cracker [username] < [password list file] now need password 
+
